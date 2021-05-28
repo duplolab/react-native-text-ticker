@@ -23,7 +23,7 @@ export const TextTickAnimationType = Object.freeze({
 export default class TextMarquee extends PureComponent {
 
   static propTypes = {
-    style:             Text.propTypes.style,
+    // style:             Text.propTypes.style,
     duration:          PropTypes.number,
     loop:              PropTypes.bool,
     bounce:            PropTypes.bool,

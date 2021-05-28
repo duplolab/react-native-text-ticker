@@ -1,4 +1,4 @@
-declare module 'react-native-text-ticker' {
+declare module '@duplolab/react-native-text-ticker' {
   import React from 'react';
   import { StyleProp, TextProps, TextStyle, EasingFunction } from 'react-native';
 
